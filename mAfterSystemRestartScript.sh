@@ -1,5 +1,5 @@
 cd /root
-#apt update
+apt update
 #apt install git build-essential cmake libuv1-dev libssl-dev libhwloc-dev libmicrohttpd-dev -y
 #rm xmrigCC -r
 #git clone https://github.com/Bendr0id/xmrigCC.git
